@@ -23,7 +23,7 @@ I'm a meticulous Quality Assurance Engineer dedicated to ensuring software relia
 
 <!-- How to reach me -->
 ## Let's Connect 🌐
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/beldas-kishan)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](www.linkedin.com/in/badbuff0409)
 
 <!-- Fun Fact -->
 Fun Fact ⚡
