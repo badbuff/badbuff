@@ -16,6 +16,10 @@ I'm a meticulous Quality Assurance Engineer dedicated to ensuring software relia
 - ![GitHub](https://img.shields.io/badge/-GitHub-black)
 - ![Jira](https://img.shields.io/badge/-Jira-blue)
 - ![VS Code](https://img.shields.io/badge/-VS%20Code-blueviolet)
+- ![Playwright](https://img.shields.io/badge/-Playwright-green)
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+
+
 
 <!-- How to reach me -->
 ## Let's Connect 🌐
